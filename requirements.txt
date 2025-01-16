@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly.express
+PIL
+wordcloud
+matplotlib.pyplot
